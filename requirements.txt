@@ -1,7 +1,6 @@
 streamlit
-scikit-learn
 pandas
 numpy
 plotly
+scikit-learn
 nltk
-joblib
